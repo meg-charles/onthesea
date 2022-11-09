@@ -1,0 +1,70 @@
+body{
+  color: #eb4034;
+  background-color: black;
+  font-family: 'Hina Mincho', serif;
+  font-size: 30;
+}
+a{
+  color: #eb4034;
+}
+
+#outside{
+  background-image: url("deck2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#sleep{
+
+}
+
+#captain{
+  background-image: url("deck2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#steer{
+  background-image: url("sea.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#medic{
+  background-image: url("medic.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+#rock{
+  background-image: url("rock.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+#talk{
+  background-image: url("cave.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#cave{
+  background-image: url("cave.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#island{
+  background-image: url("island.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#fight{
+  background-image: url("sea2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
